@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82262384283",
+    "project_id": "naija-social-chat",
+    "storage_bucket": "naija-social-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82262384283:android:1e13bcf80dbc4c4d00703e",
+        "android_client_info": {
+          "package_name": "com.emejulucodes.naijasocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82262384283-n1bfvjkui26vqjb09a6rq7lalu5iohmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg0Ss_qkPBze-7Yc3tlXUbZV73XWfK34Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82262384283-n1bfvjkui26vqjb09a6rq7lalu5iohmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
