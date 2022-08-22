@@ -1,4 +1,4 @@
-<img src=images/iconfinal.png width=80>
+<img src=images/logo.png width=80>
 
 # Naija Chat
 
@@ -8,10 +8,10 @@ It's a fully functional real-time chat application using stream and linking with
 
 ## Screenshots
 
-![](images/mock1.png)
+![](images/welcome.png)
 | Chat Screen                                                                                                           | Intro Screen                                                                                                          | Chat  Screen                                                                                                          |
 |---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| ![Chat Screen](images/mock2.jpg) | ![Chat Screen](images/mock4.gif) | ![Chat Screen](images/mock3.jpg)  |
+| ![Welcome Screen](images/welcome.png) | ![Home Screen](images/home.png) | ![Profile Screen](images/profile.png)  |
 
 ## Features
 
