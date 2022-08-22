@@ -9,7 +9,7 @@ It's a fully functional real-time chat application using stream and linking with
 ## Screenshots
 
 ![](images/welcome.png)
-| Welcome Home                                                                                                           | Intro Screen                                                                                                          | Profile  Screen                                                                                                          |
+| Welcome Home                                                                                                           | Home Screen                                                                                                          | Profile  Screen                                                                                                          |
 |---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | ![Welcome Screen](images/welcome.png) | ![Home Screen](images/home.png) | ![Profile Screen](images/profile.png)  |
 
@@ -32,9 +32,9 @@ It's a fully functional real-time chat application using stream and linking with
 ## How to run
 
 - Clone this Repo
-- Run ``` flutter packages get ```
+- Run ``` flutter pub get ```
 ```
-flutter packages get
+flutter pub get
 ```
 - Connect the app to your Firebase Project from your [Firebase Console](http://console.firebase.google.com) and add the `google-services.json` in the `/android/app` directory.
 - Run ``` flutter run ``` (remember to open simulator or connect physical device, iOS auto run additional command pod install)
