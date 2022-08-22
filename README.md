@@ -9,7 +9,7 @@ It's a fully functional real-time chat application using stream and linking with
 ## Screenshots
 
 ![](images/welcome.png)
-| Chat Screen                                                                                                           | Intro Screen                                                                                                          | Chat  Screen                                                                                                          |
+| Welcome Home                                                                                                           | Intro Screen                                                                                                          | Profile  Screen                                                                                                          |
 |---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | ![Welcome Screen](images/welcome.png) | ![Home Screen](images/home.png) | ![Profile Screen](images/profile.png)  |
 
