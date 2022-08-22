@@ -1,6 +1,6 @@
 <img src=images/logo.png width=80>
 
-# Naija Chat
+# Naija Social
 
 [![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-%2345D1FE)](https://flutter.dev/)
 
